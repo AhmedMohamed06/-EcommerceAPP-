@@ -1,0 +1,62 @@
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Service\bin\Debug\net6.0\Talabat.Respository.dll
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Service\bin\Debug\net6.0\Talabat.Respository.pdb
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Service\bin\Debug\net6.0\Talabat.Respository.dll
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Service\bin\Debug\net6.0\Talabat.Respository.pdb
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+D:\Asp.Net\Eng_Rana Hatem\06 API\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\Asp.Net\Eng_Rana Hatem\06 API\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\Asp.Net\Eng_Rana Hatem\06 API\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\Asp.Net\Eng_Rana Hatem\06 API\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\Asp.Net\Eng_Rana Hatem\06 API\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Service\bin\Debug\net6.0\Talabat.Respository.dll
+D:\Asp.Net\Eng_Rana Hatem\06 API\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Service\bin\Debug\net6.0\Talabat.Respository.pdb
+D:\Asp.Net\Eng_Rana Hatem\06 API\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Asp.Net\Eng_Rana Hatem\06 API\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\Asp.Net\Eng_Rana Hatem\06 API\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net\Eng_Rana Hatem\06 API\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\Asp.Net\Eng_Rana Hatem\06 API\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\Asp.Net\Eng_Rana Hatem\06 API\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\Asp.Net\Eng_Rana Hatem\06 API\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+D:\Asp.Net\Eng_Rana Hatem\06 API\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\Asp.Net\Eng_Rana Hatem\06 API\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\Asp.Net\Eng_Rana Hatem\06 API\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\Asp.Net\Eng_Rana Hatem\06 API\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
